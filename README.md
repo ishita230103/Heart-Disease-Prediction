@@ -5,5 +5,5 @@ This project uses Python and machine learning to predict the likelihood of heart
 Features :
 age, sex, cp,	trestbps,	chol,	fbs,	restecg,	thalach,	exang,	oldpeak,	slope,	ca,	thal,	target.
 
-target=0 (no heart disease)
+target=0 (no heart disease),
 target=1 (heart disease)
